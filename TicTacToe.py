@@ -82,7 +82,7 @@ def game():
         
         if count == 9:
             print("\nGame Over.\n")                
-            print("It's a Tie!!")
+            print("Ничья!!")
 
         
         if turn =='X':
